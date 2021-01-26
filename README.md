@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Ace Model and Ace Platform
+- 🌱 I’m currently learning ReactJS Ecosystem
+- 📫 How to reach me: [Private GitHub](https://github.com/k3nsei)
+
 <!--
 **pstepniewskiconfigit/pstepniewskiconfigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
